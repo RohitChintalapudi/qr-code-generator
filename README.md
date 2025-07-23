@@ -20,3 +20,4 @@ A simple and efficient QR Code Generator that allows users to convert text or UR
 - React js
 
 ---
+##⚠️ Best viewed on desktop or laptop screen. Mobile layout coming soon!
